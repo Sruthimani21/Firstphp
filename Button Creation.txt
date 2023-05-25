@@ -1,0 +1,8 @@
+Step 1 - Object Manager=>Case Object=>Buttons, Links, and Actions.
+Step 2 - Click New Button Link.
+Step 3 => Label And Name
+Step 4 => Display type - Detail Page Button
+Step 5 => Behaviour - Display in existing window without sidebar
+Step 6 => Content source - visualforce page
+Step 7 => Content (Detailpage Button)==>Created vf name populate automatically
+Step 8 => Click Save 

@@ -1,0 +1,16 @@
+div class="navbar">
+<a href="https://www.educba.com/finance/courses/financial-analyst-course/">Home</a>
+<a href="https://www.educba.com/data-science/courses/data-science-course/">Login</a>
+<a href="https://www.educba.com/software-development/courses/software-development-course/">Setting</a>
+<a href="https://www.educba.com/excel/courses/excel-vba-certification-course/">About</a>
+
+
+</div>
+
+
+
+<div class="header">
+  
+      <img src="round.jpg" alt="Style Station" width="80" height="81"  border-radius="40">
+
+        </div>

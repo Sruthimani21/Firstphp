@@ -1,0 +1,9 @@
+Your instance URL:https://dev16909.service-now.com
+
+Username: aes.creator
+
+Current password: bNi2UWLxa+2$
+
+
+
+GET /api/now/table/incident?sysparm_query=active%3Dtrue&amp;sysparm_display_value=true&amp;sysparm_limit=1 HTTP/1.1

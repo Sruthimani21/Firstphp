@@ -1,0 +1,6 @@
+Your instance URL:https://dev59705.service-now.com
+Username: aes.creator
+Current password: $eu1ey2C@IXJ
+
+
+https://developer.servicenow.com/dev.do#!/home

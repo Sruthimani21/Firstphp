@@ -1,0 +1,20 @@
+pushtopic pupsub
+streaming api
+salesforce to salesforce data transmit
+salesforce to java appli data transfer
+change data capture.
+salesforce with heroku(clous derve 
+
+
+
+
+Trailhead task:
+Duplicate Management
+Resolve and Prevent Duplicate Data in Salesforce
+Salesforce optimizer
+Run a Scan and Review the Findings
+Task:
+Analyzed about Salesforce to Salesforce Record Transfer
+Created a Connection Between two orgs and executed
+Status - Completed
+Hours Spent - 8

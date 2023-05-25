@@ -1,0 +1,21 @@
+public with sharing class DetailButtonController
+{
+    private ApexPages.StandardController standardController;
+    public DetailButtonController(ApexPages.StandardController standardController)
+    {
+        this.standardController = standardController;
+        Id recordId = standardController.getId();
+        
+        Case record = (Case) standardController.getRecord();
+        
+        system.debug('recordId:::::'+recordId);
+        system.debug('record:::::'+record);
+    }
+    public  PageReference redirect() {
+        String requestURL ='https://etiquette2-dev-ed.develop.lightning.force.com/lightning/r/Case/5002w00000ivzyWAAQ/view';
+    
+        PageReference newRequestURL = new PageReference(requestURL);
+        newRequestURL.setRedirect(true);
+        return newRequestURL;
+    }
+}
